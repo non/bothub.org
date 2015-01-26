@@ -12,5 +12,5 @@ improve the site, or for any other reason.
 ### contact
 
 [bothub.org](http://bothub.org) is administered by
-[@d6](http://twitter.com/d6). you can also contact *d_m* in the
-#botally channel on freenode.
+[@d6](http://twitter.com/d6). you can also contact **d_m** in the #botally
+channel on freenode.
