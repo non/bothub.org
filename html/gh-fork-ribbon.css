@@ -9,7 +9,7 @@
   position: absolute;
 
   /* Set the base colour */
-  background-color: #a00;
+  background-color: #775522;
 
   /* Set a gradient: transparent black at the top to almost-transparent black at the bottom */
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.15)));
@@ -26,9 +26,8 @@
 .github-fork-ribbon a,
 .github-fork-ribbon a:hover {
   /* Set the text properties */
-  color: #fff;
+  color: #ffeedd;
   text-decoration: none;
-  text-shadow: 0 -1px rgba(0, 0, 0, 0.5);
   text-align: center;
 
   /* Set the geometry. If you fiddle with these you'll also need
