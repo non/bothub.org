@@ -8,9 +8,6 @@
   /* The right and left classes determine the side we attach our banner to */
   position: absolute;
 
-  /* Add a bit of padding to give some substance outside the "stitching" */
-  padding: 2px 0;
-
   /* Set the base colour */
   background-color: #a00;
 
@@ -21,14 +18,6 @@
   background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
   background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
-
-  /* Add a drop shadow */
-  -webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);
-  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);
-
-  /* Set the font */
-  font: 700 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
 
   z-index: 9999;
   pointer-events: auto;
@@ -50,12 +39,6 @@
   /* Set the layout properties */
   display: inline-block;
   padding: 2px 0;
-
-  /* Add "stitching" effect */
-  border-width: 1px 0;
-  border-style: dotted;
-  border-color: #fff;
-  border-color: rgba(255, 255, 255, 0.7);
 }
 
 .github-fork-ribbon-wrapper {
